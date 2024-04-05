@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Luiz Filipe 👋
 
 - 🔭 Hoje trabalho como full stack java e angular
-- 🌱 Estudando Spring e Angular 12
+- 🌱 Estudando Spring e Angular
 
 <div align="center">
   <a href="https://github.com/lfvieira2">
